@@ -1,4 +1,4 @@
-# Nedim Eskinazi
+# Nedim Esken
 
 Senior Frontend Engineer  
 React Native & Product-Focused Developer  
